@@ -1,5 +1,8 @@
 /**
- * Created by elegant-belltree on 14/11/08.
+ * 8進数と16進数で共に循環数列になる数を表示するプログラム
  */
 public class Main {
+    public static void main(String[] args){
+        
+    }
 }
